@@ -129,3 +129,14 @@
   font-weight: bold;
   color: #c98600;
 }
+
+.rodape {
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.rodape a {
+  color: #c98600;
+  font-weight: bold;
+}
