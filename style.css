@@ -100,3 +100,32 @@
   color: #c98600;
   font-weight: bold;
 }
+
+.endereco {
+  max-width: 1024px;
+  margin: 80px auto;
+  text-align: center;
+}
+
+.endereco h2 {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+.endereco iframe {
+  width: 800px;
+  margin-bottom: 25px;
+}
+
+.endereco-contato {
+  background-color: #000;
+  width: 800px;
+  margin: 0px auto;
+  color: #fff;
+  padding: 15px;
+}
+
+.endereco-contato a {
+  font-weight: bold;
+  color: #c98600;
+}
